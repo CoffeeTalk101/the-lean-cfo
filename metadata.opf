@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2ca909dc-4b1e-47d7-8836-36831d3d2a60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ca909dc-4b1e-47d7-8836-36831d3d2a60</dc:identifier>
+        <dc:title>The Lean CFO: Architect of the Lean Management Accounting System (for pre sume)</dc:title>
+        <dc:creator opf:file-as="Katko, Nicholas S." opf:role="aut">Katko, Nicholas S.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-06T15:24:12+00:00</dc:date>
+        <dc:description>This book is not about debits, credits, or accounting theory. It’s about how a chief financial officer (CFO) becomes a Lean CFO to lead the transformation of a company’s management accounting system into a lean management accounting system. It’s been well established in lean companies that traditional management accounting systems do not provide relevant and reliable information to decision makers. The CFO, as steward of a company’s management accounting system, must provide the leadership to improve the quality of the information produced by a company’s management accounting system so it is aligned with a company’s lean strategy, lean operations, and continuous improvement. The integration of a lean management accounting system with a company’s lean strategy will lead to improved decision making by all users and drive long-term financial success. Lean management accounting helps all users, from executives to line managers, better understand the relationships between lean operating performance and financial performance. Written in the style of a practice guide, The Lean CFO is written not just for CFOs, but for all stakeholders of a company’s management accounting system, such as executives and owners, lean leaders, functional managers, and accounting professionals.</dc:description>
+        <dc:publisher>Taylor &amp; Francis Group</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
